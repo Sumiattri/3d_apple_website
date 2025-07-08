@@ -1,7 +1,17 @@
-import React from "react";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import Highlights from "./components/Highlights";
+import Model from "./components/Model";
 
 function App() {
-  return <div className="bg-red-100">App</div>;
+  return (
+    <main>
+      <Navbar />
+      <Hero />
+      <Highlights />
+      <Model />
+    </main>
+  );
 }
 
 export default App;
