@@ -1,4 +1,4 @@
-# 🍎 3D Apple Product Showcase
+# 3D Apple Product Showcase
 
 A visually immersive, animated, and scroll-synced **Apple-inspired 3D product website** built with **React**, **Tailwind CSS**, and **GSAP ScrollTrigger**. Experience a smooth, responsive, and premium product page clone with animated transitions and 3D showcase sections.
 
@@ -87,7 +87,7 @@ A visually immersive, animated, and scroll-synced **Apple-inspired 3D product we
 
 ```bash
 git clone https://github.com/Sumiattri/3d_apple_website.git
-cd genai-clone
+cd 3d_apple_website
 npm install
 npm run dev
 ```
